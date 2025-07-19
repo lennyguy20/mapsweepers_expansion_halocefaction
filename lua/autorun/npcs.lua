@@ -5,7 +5,7 @@
 -- 2: NPCs
 -- 3. Big Swarm Alert Sounds
 
---hook.Add("MapSweepersReady", "faction_doomdemons", function()
+hook.Add("MapSweepersReady", "faction_doomdemons", function()
 
 	-- 1. Faction
 	jcms.factions.doomdemons = {
@@ -505,4 +505,4 @@
 		}
 	end
 
---end)
+end)
