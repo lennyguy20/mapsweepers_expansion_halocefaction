@@ -1,9 +1,6 @@
-# DOOM Demons for Map Sweepers
+# Halo Reach Covenant for Map Sweepers
+This repository hosts an addon for Map Sweepers that adds in Halo Reach Covenant as a new faction to fight.
+* Original addon: https://steamcommunity.com/sharedfiles/filedetails/?id=2440413608
 
-This repository can serve as an example of how to create a new faction for Map Sweepers, with NPCs, example codex entries, a unique mission type and a player-controller NPC.
-
-* **Map Sweepers: https://steamcommunity.com/sharedfiles/filedetails/?id=3523033966**
-* DOOM Demons addon: https://steamcommunity.com/sharedfiles/filedetails/?id=3432968750
-
-*By Octantis Addons.*
+*Join Octantis Addons*
 Discord: https://discord.gg/PTxt9frU7b
